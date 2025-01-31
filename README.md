@@ -1,3 +1,19 @@
-# first-repository
-Skills network instruction module 2
-It is really cold right now.
+A repository of the projects in the capstone project of IBM's DS PRofessional Certificate Course.
+
+The order of the notebooks is:
+
+  Module 1
+    spacex data collection
+    webscraping
+    data wrangling
+    
+  Module 2
+    eda sql
+    eda dataviz
+    
+  Module 3
+    launch site location v2
+    plotly dash
+    
+  Module 4
+  Spacex ML Prediction
