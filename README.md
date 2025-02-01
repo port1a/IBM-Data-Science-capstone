@@ -1,4 +1,4 @@
-A repository of the projects in the capstone project of IBM's DS PRofessional Certificate Course.
+A repository of the projects in the capstone project of IBM's DS Professional Certificate Course.
 
 The order of the notebooks is:
 
